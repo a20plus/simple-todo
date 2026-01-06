@@ -1,0 +1,12 @@
+/* @import "tailwindcss"; */
+
+* {
+  margin: 0;
+  padding: 0;
+  background-color: rgba(166, 226, 226, 0.874);
+}
+
+body {
+  height: 100vh;
+  padding: 40px;
+}
